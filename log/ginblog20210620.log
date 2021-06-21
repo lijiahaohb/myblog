@@ -1,0 +1,2 @@
+time="2021-06-20 16:12:05" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=206 HostName=lijiahao-virtual-machine Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="3 ms" status=200
+time="2021-06-20 16:19:35" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=206 HostName=lijiahao-virtual-machine Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="6 ms" status=200

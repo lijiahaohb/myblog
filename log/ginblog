@@ -1,0 +1,4 @@
+time="2021-06-21T14:04:02+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=49 HostName=lijiahao-virtual-machine Ip=127.0.0.1 Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="4 ms" status=200
+time="2021-06-21T14:04:16+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=58 HostName=lijiahao-virtual-machine Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2021-06-21T14:04:21+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=221 HostName=lijiahao-virtual-machine Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="57 ms" status=200
+time="2021-06-21T14:04:26+08:00" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=205 HostName=lijiahao-virtual-machine Ip=127.0.0.1 Method=GET Path="/api/v1/users?pagesize=3&pagenum=1" SpendTime="2 ms" status=200
